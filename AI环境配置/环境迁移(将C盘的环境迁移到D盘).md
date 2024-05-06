@@ -6,7 +6,7 @@
 
 **2. 设置环境变量**
 
-右键此电脑-属性-高级系统设置-环境变量-系统变量，选中系统变量里的`Path`，点编辑，检查里面的环境变量，如果有`.conda`路径下的环境就全部替换成Anaconda路径下的环境，然后保存，如果没有就添加Anaconda相关环境变量（如`D:\Anaconda`、`D:\Anaconda\Lib`、`D:\Anaconda\Scripts`）。
+右键此电脑-属性-高级系统设置-环境变量-系统变量，选中系统变量里的`Path`，点编辑，检查里面的环境变量，如果有`.conda`路径下的环境就全部替换成Anaconda路径下的环境，然后保存，如果没有就添加Anaconda相关环境变量（如`D:\Anaconda`、`D:\Anaconda\Library\bin`、`D:\Anaconda\Scripts`）。
 
 **3. 配置VSCode编译器**
 
